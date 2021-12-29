@@ -22,3 +22,7 @@ By the end of this case study , you would be able to answer below questions.
 
 3- How the marketing strategy works in real world
 
+**Result K-means**
+
+
+![download](https://user-images.githubusercontent.com/37769960/147698332-8d21058c-275d-4b44-bb64-ec8abc6ef1e1.png)
